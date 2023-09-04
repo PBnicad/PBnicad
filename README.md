@@ -2,5 +2,8 @@
 **I’m nicad.**
   
 ![nicad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBnicad&show_icons=true&theme=apprentice)
-
- ![snake](https://github.com/PBnicad/PBnicad/blob/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PBnicad/PBnicad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PBnicad/PBnicad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PBnicad/PBnicad/output/github-contribution-grid-snake.svg">
+</picture>
