@@ -13,6 +13,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/PBnicad/PBnicad/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/PBnicad/PBnicad/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
