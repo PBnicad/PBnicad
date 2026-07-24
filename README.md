@@ -1,6 +1,8 @@
 ### Hi there 👋
 **I’m nicad.**
-  
+
+[![My AI coding usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=f215928a-fd9e-46d0-9118-f050ac3c8d1a&theme=dark)](https://www.tokentracker.cc/u/f215928a-fd9e-46d0-9118-f050ac3c8d1a?ref=readme)
+
 ![nicad's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=pbnicad&show_icons=true&theme=transparent)
 
 <picture>
